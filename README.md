@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Ayush,AI grad passionate about data anslysis and data science.
+I'm Ayush, AI grad passionate about data anslysis and data science.
 
 
 
