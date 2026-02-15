@@ -17,6 +17,6 @@ Actively trying to make Cool Stuffs.
 </p>
 
 
-### Wanna Learn AIML? Checkout Here: https://github.com/ayushbagahe/AI-ML-Course
+### Wanna Learn AIML? Checkout Here: [![Git Logo](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)](https://git-scm.com/)
 
 <p align="left"> <a href="https://discord.com/users/ayushhh057" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
