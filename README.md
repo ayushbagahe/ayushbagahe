@@ -7,7 +7,7 @@ AI Engineer
 Actively trying to make Cool Stuffs.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [corp.ayush@gmail.com](mailto:ayushbagahe0@gmail.com)
+* ✉️  You can contact me at [ayushbagahe0@gmail.com](mailto:ayushbagahe0@gmail.com)
 * 🧠  I'm currently learning how to implement AI research papers before it goes main stream.
 * 👥  I'm looking to collaborate on AI & ML projects which are closely related to FINANCE.
 * 💬  I can make my electric guitar sing.
